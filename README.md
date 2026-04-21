@@ -1,6 +1,7 @@
 # MARLINv1
 
 **Autonomous Surface Vehicle** — first-generation prototype built for extended, proactive drowning detection in volatile aquatic environments.
+<img width="1075" height="1069" alt="g5" src="https://github.com/user-attachments/assets/f8e56257-43e2-4b6b-b6c7-020035ec3ada" />
 
 ---
 
